@@ -37,7 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		066A6158AE286708A1580B6F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		1322B07D895462C0F633DCD3 /* Pods_TRUNetworking_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TRUNetworking_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2213DAE60BA3226A1D1C2E31 /* TRUNetworking.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TRUNetworking.podspec; path = ../TRUNetworking.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		503BF080A3488837CDC5911C /* Pods-TRUNetworking_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking_Example/Pods-TRUNetworking_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -64,7 +63,6 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8EE724D72242D0BFD25B9EDF /* Pods_TRUNetworking_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TRUNetworking_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACCFD0F78DED5FB502E63BAA /* Pods-TRUNetworking_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking_Example/Pods-TRUNetworking_Example.release.xcconfig"; sourceTree = "<group>"; };
-		D4E3918A575F6CCA863AE9AB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EFF4E447E848CFD090185B33 /* Pods-TRUNetworking_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking_Tests/Pods-TRUNetworking_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FC89145FE0E3CBD1971709E0 /* Pods-TRUNetworking_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TRUNetworking_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TRUNetworking_Tests/Pods-TRUNetworking_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -179,8 +177,6 @@
 			isa = PBXGroup;
 			children = (
 				2213DAE60BA3226A1D1C2E31 /* TRUNetworking.podspec */,
-				066A6158AE286708A1580B6F /* README.md */,
-				D4E3918A575F6CCA863AE9AB /* LICENSE */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
