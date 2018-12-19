@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TRUNetworking'
+  s.name             = 'XPJNetworking'
   s.version          = '0.0.1'
   s.summary          = 'description'
 
@@ -30,10 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'TRUNetworking/Classes/**/*.{m,h}'
+  s.source_files = 'XPJNetworking/Classes/*.{m,h}'
   
   # s.resource_bundles = {
-  #   'TRUNetworking' => ['TRUNetworking/Assets/*.png']
+  #   'TRUNetworking' => ['XPJNetworking/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
